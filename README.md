@@ -25,3 +25,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andykr1k&count_private=true&show_icons=true&theme=dark)
