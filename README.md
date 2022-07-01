@@ -26,3 +26,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andykr1k&count_private=true&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andykr1k&show_icons=true&theme=tokyonight)
