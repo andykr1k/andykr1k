@@ -26,3 +26,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andykr1k&count_private=true&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andykr1k&show_icons=true&layout=compact&langs_count=10&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
