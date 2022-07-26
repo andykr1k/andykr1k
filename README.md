@@ -23,8 +23,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andykr1k&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andykr1k&show_icons=true&layout=compact&langs_count=10&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
