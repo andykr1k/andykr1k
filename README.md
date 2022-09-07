@@ -22,6 +22,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andykr1k)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
 
