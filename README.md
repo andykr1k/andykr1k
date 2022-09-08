@@ -27,4 +27,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andykr1k&show_icons=true&layout=compact&langs_count=10&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andykr1k)
