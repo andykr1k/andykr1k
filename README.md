@@ -20,5 +20,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andykr1k&show_icons=true&layout=compact&langs_count=5&theme=dark)
-
