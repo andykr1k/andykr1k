@@ -1,4 +1,11 @@
-# Hello, I am Andykr1k! 👋
+<h1 align="center">
+Hello, I am Andykr1k! 👋
+</h1>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark">
+</p>
+
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=grey&color=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=grey&color=black)
@@ -18,5 +25,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=grey&color=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=grey&color=black)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
 
