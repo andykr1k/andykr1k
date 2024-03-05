@@ -2,6 +2,8 @@
 👋, I am Andykr1k!
 </h1>
 
+<h2 align="center">Using projects as a tool to learn.</h2>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andykr1k&theme=dark">
 </p>
