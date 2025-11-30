@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1>
 👋, I am Andykr1k!
 </h1>
 
-<h2 align="center">Using projects as a tool to learn.</h2>
+<h2>Using projects as a tool to learn.</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andykr1k&theme=dark)](https://git.io/streak-stats)
 
