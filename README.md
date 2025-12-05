@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm a developer who loves exploring new technologies by creating hands-on projects. Whether it's full-stack apps, systems programming, machine learning, or tooling, I try to learn something new with every build.
+I'm a PhD Researcher in Robotics at the University of Michigan who loves exploring new technologies by creating hands-on projects. Whether it's robotics, full-stack apps, systems programming, machine learning, or tooling, I try to learn something new with every build.
 
 ---
 
