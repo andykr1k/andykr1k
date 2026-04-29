@@ -16,13 +16,13 @@ I bridge the gap between theoretical robotics and production-grade systems. My w
 
 ---
 
-### ⚡ Core Stack (The Heavy Lifting)
+### ⚡ Core Stack
 
 **Languages & Systems**
 
 `Python` • `C++` • `Go` • `ROS2` • `Docker`
 
-**Model Training & Fine-Tuning (VLM/VLA)**
+**Model Training & Fine-Tuning**
 
 `PyTorch` • `Hugging Face (Transformers/Accelerate)` • `PEFT (LoRA/QLoRA)` • `TensorRT` • `ONNX`
 
@@ -40,6 +40,6 @@ I bridge the gap between theoretical robotics and production-grade systems. My w
 
 ---
 
-### 🌐 Full-Stack Engineering (The Tooling)
+### 🌐 Full-Stack Engineering
 
 `Python` • `TypeScript` • `Next.js` • `PostgreSQL` • `FastAPI` • `Supabase`
